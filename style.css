@@ -1,0 +1,24 @@
+h2{
+    color: springgreen;
+}
+
+body{
+    background-color: black;
+    color: white;
+} 
+body{
+    background-color: black;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+} 
+button>{
+  background-color: #3498db;
+  color: white;
+  border-radius:10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}   
